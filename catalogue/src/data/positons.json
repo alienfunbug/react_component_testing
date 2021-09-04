@@ -1,0 +1,45 @@
+[
+    {
+      "position": "All-Stars",
+      "players": [
+        {
+          "name": "James Harden",
+          "img": "../assets/images/Harden_full.PNG",
+          "Jersey":"13"
+        },
+        {
+          "name": "Kyrie Irving",
+          "img": "../assets/images/Irving_full.PNG",
+          "Jersey":"11"
+        },
+        {
+          "name": "Westbrook Drake",
+          "img": "../assets/images/Westbrook_full.PNG",
+          "Jersey":"00"
+        }
+      ]
+    },
+    {
+      "position": "Centers",
+      "players": [
+
+        {
+            "name": "Fred Durst",
+            "img": "../assets/images/Harden_full.PNG",
+            "Jersey":"13"
+          },
+          {
+            "name": "James  Bond",
+            "img": "../assets/images/Irving_full.PNG",
+            "Jersey":"11"
+          },
+          {
+            "name": "Harold Porter",
+            "img": "../assets/images/Westbrook_full.PNG",
+            "Jersey":"00"
+          }
+
+      ]
+    }
+  
+  ]
