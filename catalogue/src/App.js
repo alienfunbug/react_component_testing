@@ -12,7 +12,10 @@ function App() {
 
 
       n.players.map((player) =>{
-        console.log({player})
+        console.log(player)
+        console.log(player.name)
+        console.log(player.Jersey)
+        console.log(player.img)
       })
     }
   });
